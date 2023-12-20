@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.h(59,16): error C2804: binary 'operator +' has too many parameters
+  Portfolio.cpp
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.h(41,14): error C2039: 'ostream': is not a member of 'std'
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\predefined C++ types (compiler internal)(347,11): message : see declaration of 'std'
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.h(41,21): error C2143: syntax error: missing ';' before '&'
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.h(41,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.h(41,38): error C2238: unexpected token(s) preceding ';'
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.h(59,16): error C2804: binary 'operator +' has too many parameters
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.cpp(65,30): error C2039: 'display': is not a member of 'sdds::Portfolio'
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.h(28,11): message : see declaration of 'sdds::Portfolio'
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.cpp(65,46): error C2270: 'display': modifiers not allowed on nonmember functions
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.cpp(67,15): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.cpp(69,13): error C3861: 'dispPortfolio': identifier not found
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.cpp(71,19): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.cpp(73,13): error C3861: 'dispPortfolio': identifier not found
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.cpp(78,13): error C3861: 'dispPortfolio': identifier not found
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.cpp(136,24): error C2248: 'sdds::Portfolio::m_value': cannot access private member declared in class 'sdds::Portfolio'
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.h(29,16): message : see declaration of 'sdds::Portfolio::m_value'
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.h(28,11): message : see declaration of 'sdds::Portfolio'
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.cpp(136,40): error C2248: 'sdds::Portfolio::m_value': cannot access private member declared in class 'sdds::Portfolio'
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.h(29,16): message : see declaration of 'sdds::Portfolio::m_value'
+C:\Users\kaurt\source\repos\FALL 2023\Workshop 5\Portfolio.h(28,11): message : see declaration of 'sdds::Portfolio'
+  Generating Code...

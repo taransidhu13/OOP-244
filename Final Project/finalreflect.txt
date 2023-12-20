@@ -1,0 +1,27 @@
+
+////////////////////////////////
+Tarandeep Kaur
+139389225
+tarandeep-kaur6@myseneca.ca
+////////////////////////////////
+
+In this project, we were assigned the challenging task of developing an application to manage the shipment of 
+essential items during a disaster. The primary goal was to efficiently track and deliver both non-perishable and
+perishable products to affected areas. The implementation involved creating distinct classes to represent Items 
+and Perishables, encapsulating the complexities of handling expiry dates for the latter.
+
+The project proved to be a significant test of my programming skills, especially in the context of OOP244. 
+Despite the initial struggle and the rigorous nature of the subject, I recognized the importance of hard work 
+in mastering programming. Debugging techniques and adherence to rules became paramount, often requiring extended 
+periods of brainstorming to unravel complex problems.
+
+The semester had its share of personal challenges, including a mid-semester campus change. This upheaval impacted
+my performance as personal issues overshadowed studies. However, with dedicated effort, I managed to overcome 
+the hurdles. The alignment of teaching methods between both professors was fortunate, contributing to my overall
+understanding.
+
+Looking ahead to the final exam, I acknowledge the need for intense preparation over the remaining days. 
+Despite the challenges, the experience of completing Milestone 5 was particularly demanding, involving the 
+submission of six versions within a tight timeframe. I took the help of AI for debugging my code only as I only had one 
+day to submit 4 parts of milestone 5 and I also had my Database course exam. In retrospect, the course has been 
+both challenging and rewarding, and I am determined to conclude it successfully.

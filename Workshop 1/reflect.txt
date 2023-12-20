@@ -1,0 +1,23 @@
+Tarandeep Kaur
+Student ID: 139389225
+
+**Workshop Reflection**
+
+During the completion of this workshop, I encountered a few challenges and learned several important concepts
+related to file I/O and string manipulation.
+
+One notable challenge was related to scanning the records from the data file. Initially, I faced some difficulties
+in properly parsing and extracting the data from the tab-separated records. However, with the guidance of my 
+professor, I was able to use the `sscanf` function (I couldn't do it with fscanf, a problem I am still seeking solution for)
+effectively to parse the records and extract the required 
+information, such as names, area codes, prefixes, and numbers.
+
+Another challenge was converting both the user's input and the records from the file to lowercase for a
+case-insensitive search. It required careful handling of character strings and the use of the `toLowerCaseAndCopy`
+function from the `cStrTools` module. This step was crucial to ensure that the search worked as expected.
+
+Overall, it took approximately two hours to write the entire code, but the effort was definitely worth it. 
+Throughout this workshop, I learned about different string functions, their implementations, and refreshed 
+my memory on concepts learned in previous courses like IPC144. The combination of C-style file I/O and C++-style
+string manipulation allowed me to create a robust program for searching a phone directory, which was a valuable 
+learning experience.

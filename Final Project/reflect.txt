@@ -1,0 +1,20 @@
+//////////////////////////////////////////
+Name: Tarandeep Kaur
+Student ID: 139389225
+Student Email: tarandeep-kaur6@myseneca.ca
+Workshop 10 
+//////////////////////////////////////////
+
+In creating this workshop, we were instructed to create a module called "selection" housing two crucial function
+templates for array handling. The first function, named select, dynamically allocates memory to form an array
+of indices where a specified key is found in the given array. It systematically scans through the array, 
+pinpoints instances of the key, and records their indices in a new array. The termination of the array with 
+-1 neatly signals the end of the indices. The second function template, csvDisplaySelection, offers a user-friendly
+ display of elements at specified indices as a comma-separated list. It efficiently checks for the validity of 
+the indices array, ensuring proper formatting for a clear and concise output. Additionally, the code pays close
+attention to memory management, preventing potential leaks by appropriately deallocating dynamically allocated 
+memory within the select function. With thoughtful comments and adherence to naming conventions, 
+the code aims for clarity, making it easy to understand and maintain.
+
+As regards to milestone 5 version 1, I am still working on it as other courses exams are taking place side by side. 
+Reflection for milestone 5 version 1 and 2 will be provided in the coming week.

@@ -1,0 +1,37 @@
+/*
+Name: Tarandeep Kaur
+Student ID: 139389225
+Student Email: tarandeep-kaur6@myseneca.ca
+Section: ZEE
+Date: 14 October 2023
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.*/
+
+This workshop involved implementing a class called "Flight" and "Portfolio" with various functionalities. I had 
+to create constructors, conversion operators, and overload operators to perform specific tasks. Here's my reflection:
+
+Constructors: The first part of the workshop was about creating constructors. It's crucial to have a good understanding
+ of constructors because they are used to initialize objects. I've learned that constructors can be used to set 
+initial values for data members.
+
+Operator Overloading: Overloading operators was a bit challenging. The workshop required me to overload various
+ operators like +=, <<, >>, and binary operators like +. I've learned that operator overloading allows us to use 
+familiar operators with user-defined types, which is quite powerful. This was where I spent most of time debugging the code, example the compiler would say '+' is ambiguous and I really didn't know much to do. After an hour, I realised I had forgotten to implement a function(one of the instructions). Felt disappointed that I didn't pay attention earlier on the instructions provided.
+
+Conversion Operators: Implementing conversion operators was interesting. These operators allow objects of one class
+ to be converted to another type. For example, I had to implement conversion to double, char, const char*, and
+ bool. It's a powerful feature, but it's essential to be cautious when using them to avoid unintended type 
+conversions.
+
+Static vs. Non-Static Member Functions: I encountered errors related to static and non-static member functions. 
+Static functions can't access the this pointer and can't be called on an instance of a class. Understanding 
+this distinction is vital when defining member functions.
+
+Incompatibility Issues: I faced some incompatibility issues with my code. Debugging these problems helped me 
+understand the importance of consistent data types and headers in different parts of the program.
+
+Header Files: Properly organizing header files and including necessary standard library headers is critical. 
+It helps prevent errors related to missing type specifiers and unresolved references.
+
+Overall, this workshop enhanced my understanding of object-oriented programming concepts such as constructors,
+operator overloading, member and helper functions and conversion operators. I also realized the importance of 
+a structured approach to class design and avoiding type mismatches.
